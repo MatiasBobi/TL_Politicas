@@ -337,6 +337,11 @@
         "id": "gbb",
         "name": "Eliminatorias Concacaf",
         "url_name": "concacaf-world-cup-qualification"
+      },
+      {
+        "id": "ffcf",
+        "name": "Mundial sub-20",
+        "url_name": "u20-world-cup"
       }
     ]
   }
