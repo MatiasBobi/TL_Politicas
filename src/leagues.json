@@ -293,6 +293,11 @@
     "id": 16,
     "name": "Selecciones",
     "sub_categories": [
+     {
+        "id": "fjda",
+        "name": "Mundial 2026",
+        "url_name": "fifa-world-cup"
+      },
       {
         "id": "fjf",
         "name": "Copa América",
@@ -322,11 +327,6 @@
         "id": "gahb",
         "name": "Eliminatorias Eurocopa",
         "url_name": "european-qualifiers"
-      },
-      {
-        "id": "fjda",
-        "name": "Mundial",
-        "url_name": "fifa-world-cup"
       },
       {
         "id": "fefd",
